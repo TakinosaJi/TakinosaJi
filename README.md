@@ -1,3 +1,3 @@
-## Jekyll Documentation theme
+## EXDEV LAB Projects
 
-This is the readme page of the Jekyll documentation theme.
+This is the readme page of the EXDEV LAB Projects web site.
