@@ -1,60 +1,60 @@
 
 testunium_hompepage:
   title: "Introduction"
-  url: "/testunium/"
-  link: "<a href='/testunium/testunium_'>Introduction</a>"
+  url: "/"
+  link: "<a href='/testunium_'>Introduction</a>"
 
 
 testunium_get_started:
   title: "Get started"
-  url: "/testunium/testunium_get_started"
-  link: "<a href='/testunium/testunium_get_started'>Get started</a>"
+  url: "/testunium_get_started"
+  link: "<a href='/testunium_get_started'>Get started</a>"
 
 
 testunium_release_notes_50:
   title: "5.0 Release notes"
-  url: "/testunium/testunium_release_notes/"
-  link: "<a href='/testunium/testunium_release_notes/'>Release notes</a>"
+  url: "/testunium_release_notes/"
+  link: "<a href='/testunium_release_notes/'>Release notes</a>"
 
 
 testunium_supported_features:
   title: "Supported features"
-  url: "/testunium/testunium_supported_features/"
-  link: "<a href='/testunium/testunium_supported_features/'>Supported features</a>"
+  url: "/testunium_supported_features/"
+  link: "<a href='/testunium_supported_features/'>Supported features</a>"
 
 
 
 testunium_about:
   title: "About the theme author"
-  url: "/testunium/testunium_about/"
-  link: "<a href='/testunium/testunium_about/'>About the theme author</a>"
+  url: "/testunium_about/"
+  link: "<a href='/testunium_about/'>About the theme author</a>"
 
 
 
 testunium_support:
   title: "Support"
-  url: "/testunium/testunium_support/"
-  link: "<a href='/testunium/testunium_support/'>Support</a>"
+  url: "/testunium_support/"
+  link: "<a href='/testunium_support/'>Support</a>"
 
 
 testunium_about_ruby_gems_etc:
   title: "About Ruby, Gems, Bundler, etc."
-  url: "/testunium/testunium_about_ruby_gems_etc/"
-  link: "<a href='/testunium/testunium_about_ruby_gems_etc/'>About Ruby, Gems, Bundler, etc.</a>"
+  url: "/testunium_about_ruby_gems_etc/"
+  link: "<a href='/testunium_about_ruby_gems_etc/'>About Ruby, Gems, Bundler, etc.</a>"
 
 
 
 testunium_install_jekyll_on_mac:
   title: "Install Jekyll on Mac"
-  url: "/testunium/testunium_install_jekyll_on_mac/"
-  link: "<a href='/testunium/testunium_install_jekyll_on_mac/'>Install Jekyll on Mac</a>"
+  url: "/testunium_install_jekyll_on_mac/"
+  link: "<a href='/testunium_install_jekyll_on_mac/'>Install Jekyll on Mac</a>"
 
 
 
 testunium_install_jekyll_on_windows:
   title: "Install Jekyll on Windows"
-  url: "/testunium/testunium_install_jekyll_on_windows/"
-  link: "<a href='/testunium/testunium_install_jekyll_on_windows/'>Install Jekyll on Windows</a>"
+  url: "/testunium_install_jekyll_on_windows/"
+  link: "<a href='/testunium_install_jekyll_on_windows/'>Install Jekyll on Windows</a>"
 
 
 
@@ -62,43 +62,43 @@ testunium_install_jekyll_on_windows:
 
 testunium_pages:
   title: "Pages"
-  url: "/testunium/testunium_pages/"
-  link: "<a href='/testunium/testunium_pages/'>Pages</a>"
+  url: "/testunium_pages/"
+  link: "<a href='/testunium_pages/'>Pages</a>"
 
 
 
 testunium_posts:
   title: "Posts"
-  url: "/testunium/testunium_posts/"
-  link: "<a href='/testunium/testunium_posts/'>Posts</a>"
+  url: "/testunium_posts/"
+  link: "<a href='/testunium_posts/'>Posts</a>"
 
 
 
 testunium_webstorm_text_editor:
   title: "WebStorm Text Editor"
-  url: "/testunium/testunium_webstorm_text_editor/"
-  link: "<a href='/testunium/testunium_webstorm_text_editor/'>WebStorm Text Editor</a>"
+  url: "/testunium_webstorm_text_editor/"
+  link: "<a href='/testunium_webstorm_text_editor/'>WebStorm Text Editor</a>"
 
 
 
 testunium_conditional_logic:
   title: "Conditional logic"
-  url: "/testunium/testunium_conditional_logic/"
-  link: "<a href='/testunium/testunium_conditional_logic/'>Conditional logic</a>"
+  url: "/testunium_conditional_logic/"
+  link: "<a href='/testunium_conditional_logic/'>Conditional logic</a>"
 
 
 
 testunium_content_reuse:
   title: "Content reuse"
-  url: "/testunium/testunium_content_reuse/"
-  link: "<a href='/testunium/testunium_content_reuse/'>Content reuse</a>"
+  url: "/testunium_content_reuse/"
+  link: "<a href='/testunium_content_reuse/'>Content reuse</a>"
 
 
 
 testunium_collections:
   title: "Collections"
-  url: "/testunium/testunium_collections/"
-  link: "<a href='/testunium/testunium_collections/'>Collections</a>"
+  url: "/testunium_collections/"
+  link: "<a href='/testunium_collections/'>Collections</a>"
 
 
 
@@ -106,29 +106,29 @@ testunium_collections:
 
 testunium_sidebar_navigation:
   title: "Sidebar navigation"
-  url: "/testunium/testunium_sidebar_navigation/"
-  link: "<a href='/testunium/testunium_sidebar_navigation/'>Sidebar navigation</a>"
+  url: "/testunium_sidebar_navigation/"
+  link: "<a href='/testunium_sidebar_navigation/'>Sidebar navigation</a>"
 
 
 
 testunium_yaml_tutorial:
   title: "YAML tutorial in the context of Jekyll"
-  url: "/testunium/testunium_yaml_tutorial/"
-  link: "<a href='/testunium/testunium_yaml_tutorial/'>YAML tutorial in the context of Jekyll</a>"
+  url: "/testunium_yaml_tutorial/"
+  link: "<a href='/testunium_yaml_tutorial/'>YAML tutorial in the context of Jekyll</a>"
 
 
 
 testunium_tags:
   title: "Tags"
-  url: "/testunium/testunium_tags/"
-  link: "<a href='/testunium/testunium_tags/'>Tags</a>"
+  url: "/testunium_tags/"
+  link: "<a href='/testunium_tags/'>Tags</a>"
 
 
 
 testunium_series:
   title: "Series"
-  url: "/testunium/testunium_series/"
-  link: "<a href='/testunium/testunium_series/'>Series</a>"
+  url: "/testunium_series/"
+  link: "<a href='/testunium_series/'>Series</a>"
 
 
 
@@ -136,64 +136,64 @@ testunium_series:
 
 testunium_adding_tooltips:
   title: "Tooltips"
-  url: "/testunium/testunium_adding_tooltips/"
-  link: "<a href='/testunium/testunium_adding_tooltips/'>Tooltips</a>"
+  url: "/testunium_adding_tooltips/"
+  link: "<a href='/testunium_adding_tooltips/'>Tooltips</a>"
 
 
 
 testunium_alerts:
   title: "Alerts"
-  url: "/testunium/testunium_alerts/"
-  link: "<a href='/testunium/testunium_alerts/'>Alerts</a>"
+  url: "/testunium_alerts/"
+  link: "<a href='/testunium_alerts/'>Alerts</a>"
 
 
 
 testunium_icons:
   title: "Icons"
-  url: "/testunium/testunium_icons/"
-  link: "<a href='/testunium/testunium_icons/'>Icons</a>"
+  url: "/testunium_icons/"
+  link: "<a href='/testunium_icons/'>Icons</a>"
 
 
 
 testunium_images:
   title: "Images"
-  url: "/testunium/testunium_images/"
-  link: "<a href='/testunium/testunium_images/'>Images</a>"
+  url: "/testunium_images/"
+  link: "<a href='/testunium_images/'>Images</a>"
 
 
 
 testunium_labels:
   title: "Labels"
-  url: "/testunium/testunium_labels/"
-  link: "<a href='/testunium/testunium_labels/'>Labels</a>"
+  url: "/testunium_labels/"
+  link: "<a href='/testunium_labels/'>Labels</a>"
 
 
 
 testunium_hyperlinks:
   title: "Links"
-  url: "/testunium/testunium_hyperlinks/"
-  link: "<a href='/testunium/testunium_hyperlinks/'>Links</a>"
+  url: "/testunium_hyperlinks/"
+  link: "<a href='/testunium_hyperlinks/'>Links</a>"
 
 
 
 testunium_navtabs:
   title: "Navtabs"
-  url: "/testunium/testunium_navtabs/"
-  link: "<a href='/testunium/testunium_navtabs/'>Navtabs</a>"
+  url: "/testunium_navtabs/"
+  link: "<a href='/testunium_navtabs/'>Navtabs</a>"
 
 
 
 testunium_tables:
   title: "Tables"
-  url: "/testunium/testunium_tables/"
-  link: "<a href='/testunium/testunium_tables/'>Tables</a>"
+  url: "/testunium_tables/"
+  link: "<a href='/testunium_tables/'>Tables</a>"
 
 
 
 testunium_syntax_highlighting:
   title: "Syntax highlighting"
-  url: "/testunium/testunium_syntax_highlighting/"
-  link: "<a href='/testunium/testunium_syntax_highlighting/'>Syntax highlighting</a>"
+  url: "/testunium_syntax_highlighting/"
+  link: "<a href='/testunium_syntax_highlighting/'>Syntax highlighting</a>"
 
 
 
@@ -201,8 +201,8 @@ testunium_syntax_highlighting:
 
 testunium_commenting_on_files:
   title: "Commenting on files"
-  url: "/testunium/testunium_commenting_on_files/"
-  link: "<a href='/testunium/testunium_commenting_on_files/'>Commenting on files</a>"
+  url: "/testunium_commenting_on_files/"
+  link: "<a href='/testunium_commenting_on_files/'>Commenting on files</a>"
 
 
 
@@ -210,71 +210,71 @@ testunium_commenting_on_files:
 
 testunium_build_arguments:
   title: "Build arguments"
-  url: "/testunium/testunium_build_arguments/"
-  link: "<a href='/testunium/testunium_build_arguments/'>Build arguments</a>"
+  url: "/testunium_build_arguments/"
+  link: "<a href='/testunium_build_arguments/'>Build arguments</a>"
 
 
 
 testunium_themes:
   title: "Themes"
-  url: "/testunium/testunium_themes/"
-  link: "<a href='/testunium/testunium_themes/'>Themes</a>"
+  url: "/testunium_themes/"
+  link: "<a href='/testunium_themes/'>Themes</a>"
 
 
 
 testunium_title_checker:
   title: "Check page title consistency"
-  url: "/testunium/testunium_title_checker/"
-  link: "<a href='/testunium/testunium_title_checker/'>Check page title consistency</a>"
+  url: "/testunium_title_checker/"
+  link: "<a href='/testunium_title_checker/'>Check page title consistency</a>"
 
 
 
 testunium_generating_pdfs:
   title: "Generating PDFs"
-  url: "/testunium/testunium_generating_pdfs/"
-  link: "<a href='/testunium/testunium_generating_pdfs/'>Generating PDFs</a>"
+  url: "/testunium_generating_pdfs/"
+  link: "<a href='/testunium_generating_pdfs/'>Generating PDFs</a>"
 
 
 
 testunium_help_api:
   title: "Help APIs and UI tooltips"
-  url: "/testunium/testunium_help_api/"
-  link: "<a href='/testunium/testunium_help_api/'>Help APIs and UI tooltips</a>"
+  url: "/testunium_help_api/"
+  link: "<a href='/testunium_help_api/'>Help APIs and UI tooltips</a>"
 
 
 
 testunium_search_configuration:
   title: "Search configuration"
-  url: "/testunium/testunium_search_configuration/"
-  link: "<a href='/testunium/testunium_search_configuration/'>Search configuration</a>"
+  url: "/testunium_search_configuration/"
+  link: "<a href='/testunium_search_configuration/'>Search configuration</a>"
 
 
 
 testunium_iterm_profiles:
   title: "iTerm profiles"
-  url: "/testunium/testunium_iterm_profiles/"
-  link: "<a href='/testunium/testunium_iterm_profiles/'>iTerm profiles</a>"
+  url: "/testunium_iterm_profiles/"
+  link: "<a href='/testunium_iterm_profiles/'>iTerm profiles</a>"
 
 
 
 testunium_push_build_to_server:
   title: "Pushing builds to server"
-  url: "/testunium/testunium_push_build_to_server/"
-  link: "<a href='/testunium/testunium_push_build_to_server/'>Pushing builds to server</a>"
+  url: "/testunium_push_build_to_server/"
+  link: "<a href='/testunium_push_build_to_server/'>Pushing builds to server</a>"
 
 
 
 testunium_no_password_prompts_scp:
   title: "Getting around the password prompts in SCP"
-  url: "/testunium/testunium_no_password_prompts_scp/"
-  link: "<a href='/testunium/testunium_no_password_prompts_scp/'>Getting around the password prompts in SCP</a>"
+  url: "/testunium_no_password_prompts_scp/"
+  link: "<a href='/testunium_no_password_prompts_scp/'>Getting around the password prompts in SCP</a>"
 
 
 
 testunium_publishing_github_pages:
   title: "Publishing on Github Pages"
-  url: "/testunium/testunium_publishing_github_pages/"
-  link: "<a href='/testunium/testunium_publishing_github_pages/'>Publishing on Github Pages</a>"
+  url: "/testunium_publishing_github_pages/"
+  link: "<a href='/testunium_publishing_github_pages/'>Publishing on Github Pages</a>"
 
 
 
@@ -282,22 +282,22 @@ testunium_publishing_github_pages:
 
 testunium_kb_layout:
   title: "Knowledge-base layout"
-  url: "/testunium/testunium_kb_layout/"
-  link: "<a href='/testunium/testunium_kb_layout/'>Knowledge-base layout</a>"
+  url: "/testunium_kb_layout/"
+  link: "<a href='/testunium_kb_layout/'>Knowledge-base layout</a>"
 
 
 
 testunium_glossary:
   title: "Glossary layout"
-  url: "/testunium/testunium_glossary/"
-  link: "<a href='/testunium/testunium_glossary/'>Glossary layout</a>"
+  url: "/testunium_glossary/"
+  link: "<a href='/testunium_glossary/'>Glossary layout</a>"
 
 
 
 testunium_faq_layout:
   title: "FAQ layout"
-  url: "/testunium/testunium_faq_layout/"
-  link: "<a href='/testunium/testunium_faq_layout/'>FAQ layout</a>"
+  url: "/testunium_faq_layout/"
+  link: "<a href='/testunium_faq_layout/'>FAQ layout</a>"
 
 
 
@@ -305,8 +305,8 @@ testunium_faq_layout:
 
 testunium_troubleshooting:
   title: "Troubleshooting"
-  url: "/testunium/testunium_troubleshooting/"
-  link: "<a href='/testunium/testunium_troubleshooting/'>Troubleshooting</a>"
+  url: "/testunium_troubleshooting/"
+  link: "<a href='/testunium_troubleshooting/'>Troubleshooting</a>"
 
 
 
@@ -314,48 +314,48 @@ testunium_troubleshooting:
 
 tag_archives_overview:
   title: "Tag archives overview"
-  url: "/testunium/testunium_tag_archives_overview/"
-  link: "<a href='/testunium/testunium_tag_archives_overview/'>Tag archives overview</a>"
+  url: "/testunium_tag_archives_overview/"
+  link: "<a href='/testunium_tag_archives_overview/'>Tag archives overview</a>"
 
 
 
 tag_formatting:
   title: "Formatting pages"
-  url: "/testunium/testunium_tag_formatting/"
-  link: "<a href='/testunium/testunium_tag_formatting/'>Formatting pages</a>"
+  url: "/testunium_tag_formatting/"
+  link: "<a href='/testunium_tag_formatting/'>Formatting pages</a>"
 
 
 tag_navigation:
   title: "Navigation pages"
-  url: "/testunium/testunium_tag_navigation/"
-  link: "<a href='/testunium/testunium_tag_navigation/'>Navigation pages</a>"
+  url: "/testunium_tag_navigation/"
+  link: "<a href='/testunium_tag_navigation/'>Navigation pages</a>"
 
 
 tag_content_types:
   title: "Content types pages"
-  url: "/testunium/testunium_tag_content_types/"
-  link: "<a href='/testunium/testunium_tag_content_types/'>Content types pages</a>"
+  url: "/testunium_tag_content_types/"
+  link: "<a href='/testunium_tag_content_types/'>Content types pages</a>"
 
 
 tag_publishing:
   title: "Publishing pages"
-  url: "/testunium/testunium_tag_publishing/"
-  link: "<a href='/testunium/testunium_tag_publishing/'>Publishing pages</a>"
+  url: "/testunium_tag_publishing/"
+  link: "<a href='/testunium_tag_publishing/'>Publishing pages</a>"
 
 
 tag_special_layouts:
   title: "Special layout pages"
-  url: "/testunium/testunium_tag_special_layouts/"
-  link: "<a href='/testunium/testunium_tag_special_layouts/'>Special layout pages</a>"
+  url: "/testunium_tag_special_layouts/"
+  link: "<a href='/testunium_tag_special_layouts/'>Special layout pages</a>"
 
 
 tag_collaboration:
   title: "Collaboration pages"
-  url: "/testunium/testunium_tag_collaboration/"
-  link: "<a href='/testunium/testunium_tag_collaboration/'>Collaboration pages</a>"
+  url: "/testunium_tag_collaboration/"
+  link: "<a href='/testunium_tag_collaboration/'>Collaboration pages</a>"
 
 
 tag_troubleshooting:
   title: "Troubleshooting pages"
-  url: "/testunium/testunium_tag_troubleshooting/"
-  link: "<a href='/testunium/testunium_tag_troubleshooting/'>Troubleshooting pages</a>"
+  url: "/testunium_tag_troubleshooting/"
+  link: "<a href='/testunium_tag_troubleshooting/'>Troubleshooting pages</a>"
