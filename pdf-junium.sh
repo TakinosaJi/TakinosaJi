@@ -3,9 +3,9 @@ kill -9 $(ps aux | grep '[j]ekyll' | awk '{print $2}')
 clear
 
 echo "Building PDF-friendly HTML site for Mydoc ...";
-jekyll serve --detach --config _config.yml,pdfconfigs/config_testunium_pdf.yml;
+jekyll serve --detach --config _config.yml,pdfconfigs/config_junium_pdf.yml;
 echo "done";
 
 echo "Building the PDF ...";
-prince --javascript --input-list=_site/pdfconfigs/prince-list.txt -o pdf/TestUnium.pdf;
+prince --javascript --input-list=_site/pdfconfigs/prince-list.txt -o pdf/jUnium.pdf;
 echo "done";

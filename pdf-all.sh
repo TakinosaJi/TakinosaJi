@@ -1,1 +1,1 @@
-. pdf-testunium.sh;
+. pdf-testunium.sh; . pdf-junium.sh;

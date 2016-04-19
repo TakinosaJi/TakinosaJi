@@ -2,7 +2,7 @@
 testunium_hompepage:
   title: "Introduction"
   url: "/"
-  link: "<a href='/testunium_'>Introduction</a>"
+  link: "<a href='/'>Introduction</a>"
 
 
 testunium_get_started:

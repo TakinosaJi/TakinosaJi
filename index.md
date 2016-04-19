@@ -1,7 +1,7 @@
 ---
-title: Getting started overview
-tags: [getting_started]
-sidebar: mydoc_sidebar
+title: Introduction
+tags: [introduction]
+sidebar: testunium_sidebar
 type: homepage
 ---
 
@@ -13,8 +13,8 @@ These brief instructions will help you get started quickly with the theme. The o
 
 If you're used to running Jekyll sites, you can type the normal jekyll command, `jekyll serve`, to run this site. However, if you're a new Jekyll user or if you run into issues, see the following two topics:
 
-* {{site.data.urls.mydoc_install_jekyll_on_mac.link}}
-* {{site.data.urls.mydoc_install_jekyll_on_windows.link}}
+* {{site.data.testunium_urls.testunium_install_jekyll_on_mac.link}}
+* {{site.data.testunium_urls.testunium_install_jekyll_on_windows.link}}
 
 ## Configure the sidebar
 
