@@ -4,14 +4,10 @@ entries:
 - title: Sidebar
   levels: one
   folders:
-
-  - title: Projects
+  - title: About Us
     output: web
     folderitems:
-    - title: Home
-      url: /
-      output: web
-    - title: TestUnium
-      url: /testunium/
+    - title: Introduction
+      url: /introduction/
       output: web
 
