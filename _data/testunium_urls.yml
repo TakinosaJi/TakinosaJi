@@ -4,17 +4,36 @@ hompepage:
   url: "/"
   link: "<a href='/'>Introduction</a>"
 
-
 get_started:
   title: "Get started"
-  url: "/testunium_get_started"
-  link: "<a href='/testunium_get_started'>Get started</a>"
+  url: "/testunium_get_started/"
+  link: "<a href='/testunium_get_started/'>Get started</a>"
+
+release_notes_1_0_0:
+  title: "Release notes 1.0.0"
+  url: "/testunium_release_notes_1_0_0/"
+  link: "<a href='/testunium_release_notes_1_0_0/'>Release notes 1.0.0</a>"
+
+support:
+  title: "Support"
+  url: "/testunium_support/"
+  link: "<a href='/testunium_support/'>Support</a>"
 
 
-release_notes_50:
-  title: "5.0 Release notes"
-  url: "/testunium_release_notes/"
-  link: "<a href='/testunium_release_notes/'>Release notes</a>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 supported_features:
@@ -31,10 +50,6 @@ about:
 
 
 
-support:
-  title: "Support"
-  url: "/testunium_support/"
-  link: "<a href='/testunium_support/'>Support</a>"
 
 
 about_ruby_gems_etc:

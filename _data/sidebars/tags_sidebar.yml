@@ -1,7 +1,7 @@
 
 entries:
 - title: Tags Sidebar
-  product: Tags
+  project: Tags
   version: all products
   levels: one
   output: web

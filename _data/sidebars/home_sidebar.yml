@@ -4,10 +4,24 @@ entries:
 - title: Sidebar
   levels: one
   folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage/
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage/
+      output: pdf
+      type: frontmatter
+
   - title: About Us
-    output: web
+    output: web, pdf
     folderitems:
     - title: Introduction
       url: /introduction/
-      output: web
+      output: web, pdf
 
