@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: TestUnium
-  version: v1.0.0
+  version: v0.1.0
   folders:
 
   - title:

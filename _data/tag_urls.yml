@@ -1,0 +1,47 @@
+archives_overview:
+  title: "Tag archives overview"
+  url: "/testunium_tag_archives_overview/"
+  link: "<a href='/testunium_tag_archives_overview/'>Tag archives overview</a>"
+
+
+
+formatting:
+  title: "Formatting pages"
+  url: "/testunium_tag_formatting/"
+  link: "<a href='/testunium_tag_formatting/'>Formatting pages</a>"
+
+
+navigation:
+  title: "Navigation pages"
+  url: "/testunium_tag_navigation/"
+  link: "<a href='/testunium_tag_navigation/'>Navigation pages</a>"
+
+
+content_types:
+  title: "Content types pages"
+  url: "/testunium_tag_content_types/"
+  link: "<a href='/testunium_tag_content_types/'>Content types pages</a>"
+
+
+publishing:
+  title: "Publishing pages"
+  url: "/testunium_tag_publishing/"
+  link: "<a href='/testunium_tag_publishing/'>Publishing pages</a>"
+
+
+special_layouts:
+  title: "Special layout pages"
+  url: "/testunium_tag_special_layouts/"
+  link: "<a href='/testunium_tag_special_layouts/'>Special layout pages</a>"
+
+
+collaboration:
+  title: "Collaboration pages"
+  url: "/testunium_tag_collaboration/"
+  link: "<a href='/testunium_tag_collaboration/'>Collaboration pages</a>"
+
+
+troubleshooting:
+  title: "Troubleshooting pages"
+  url: "/testunium_tag_troubleshooting/"
+  link: "<a href='/testunium_tag_troubleshooting/'>Troubleshooting pages</a>"
