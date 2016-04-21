@@ -1,6 +1,6 @@
 ---
-title: Introduction
-tags: [introduction]
+title: Get started
+tags: [get_started]
 sidebar: testunium_sidebar
 type: homepage
 ---

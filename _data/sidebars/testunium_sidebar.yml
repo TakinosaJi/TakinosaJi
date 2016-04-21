@@ -28,8 +28,12 @@ entries:
       type: homepage
       output: web, pdf
 
-    - title: Get started
-      url: /testunium_get_started/
+    - title: Environment requirements
+      url: /testunium_environment_requirements/
+      output: web, pdf
+
+    - title: Distribution and installation
+      url: /testunium_distribution_and_installation/
       output: web, pdf
 
       subfolders:
@@ -42,4 +46,12 @@ entries:
 
     - title: Support
       url: /testunium_support/
+      output: web, pdf
+
+  - title: Operation manual
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /testunium_get_started/
       output: web, pdf

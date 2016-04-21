@@ -9,6 +9,16 @@ get_started:
   url: "/testunium_get_started/"
   link: "<a href='/testunium_get_started/'>Get started</a>"
 
+environment_requirements:
+  title: "Environment requirements"
+  url: "/testunium_environment_requirements/"
+  link: "<a href='/testunium_environment_requirements/'>Environment requirements</a>"
+
+distribution_and_installation:
+  title: "Distribution and installation"
+  url: "/testunium_distribution_and_installation/"
+  link: "<a href='/testunium_distribution_and_installation/'>Distribution and installation</a>"
+
 release_notes_1_0_0:
   title: "Release notes 1.0.0"
   url: "/testunium_release_notes_1_0_0/"

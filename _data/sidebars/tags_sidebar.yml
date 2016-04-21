@@ -7,15 +7,6 @@ entries:
   output: web
   folders:
 
-  - title: News
-    output: web
-    folderitems:
-    - title: News
-      url: /news/
-      output: web
-    - title: News archive
-      url: /news_archive/
-      output: web
   - title: Tags
     output: web
     folderitems:
